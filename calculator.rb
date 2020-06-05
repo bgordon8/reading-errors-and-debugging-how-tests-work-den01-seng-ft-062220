@@ -1,2 +1,2 @@
 first_number = 1
-second number = 9
+second_number = 9
